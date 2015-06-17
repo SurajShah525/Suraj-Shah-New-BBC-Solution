@@ -1,0 +1,3 @@
+Unit testing files(TestRunners) for classes productCategoryList and ExemptCategories kept separate.
+TestRunnerBBC checks tests only on getBill() which returns sales tax and total,which are then checked.
+Appropriate data structures used for proper storage and faster retrieval
